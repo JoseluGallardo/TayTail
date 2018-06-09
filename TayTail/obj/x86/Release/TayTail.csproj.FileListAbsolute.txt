@@ -1,0 +1,3 @@
+/Users/Joselu/Projects/TayTail/TayTail/bin/Release/TayTail.exe
+/Users/Joselu/Projects/TayTail/TayTail/obj/x86/Release/TayTail.csproj.CoreCompileInputs.cache
+/Users/Joselu/Projects/TayTail/TayTail/obj/x86/Release/TayTail.exe

@@ -1,0 +1,6 @@
+/Users/Joselu/Projects/TayTail/TayTail/bin/Debug/TayTail.exe
+/Users/Joselu/Projects/TayTail/TayTail/bin/Debug/TayTail.pdb
+/Users/Joselu/Projects/TayTail/TayTail/obj/x86/Debug/TayTail.csprojResolveAssemblyReference.cache
+/Users/Joselu/Projects/TayTail/TayTail/obj/x86/Debug/TayTail.csproj.CoreCompileInputs.cache
+/Users/Joselu/Projects/TayTail/TayTail/obj/x86/Debug/TayTail.exe
+/Users/Joselu/Projects/TayTail/TayTail/obj/x86/Debug/TayTail.pdb
